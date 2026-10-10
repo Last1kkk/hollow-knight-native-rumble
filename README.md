@@ -57,12 +57,15 @@ This preserves the game's original vibration behavior rather than replacing it w
 3. No Steam, CrossOver, ControllerFixes, or external Windows components are required by this mod.
 4. Launch Hollow Knight through Lumafly.
 
-## Limitations
 
-- macOS only.
-- Tested on macOS Tahoe 26.6.2.
-- Only the 8BitDo Ultimate 2 Bluetooth Controller has been tested so far.
-- No intensity setting/menu is included in v1.0.0.
+
+## Compatibility and Known Conflicts
+
+* Tested on macOS with Hollow Knight 1.5.75, running the x86_64 game under Rosetta on Apple Silicon.
+* **ControllerFixes conflict:** Do not enable ControllerFixes alongside Hollow Knight Native Rumble. When both mods are enabled, Native Rumble stops working.
+* Compatibility with Hollow Knight 1.5.12459 and newer versions has not been verified.
+* This mod restores controller rumble; it does not fix controller detection or button input.
+
 
 ## Version
 
