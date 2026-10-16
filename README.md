@@ -1,6 +1,6 @@
 # Hollow Knight Native Rumble — macOS
 
-Restores native controller rumble in Hollow Knight 1.5.75 on macOS while preserving Hollow Knight's original vibration system and patterns.
+Restores native controller rumble in Hollow Knight 1.5.78.11833 on macOS while preserving Hollow Knight's original vibration system and patterns.
 
 ## Platform
 
@@ -8,7 +8,7 @@ Restores native controller rumble in Hollow Knight 1.5.75 on macOS while preserv
 
 ## Game
 
-- Hollow Knight 1.5.75
+- Hollow Knight 1.5.78.11833
 
 ## Architecture
 
@@ -61,7 +61,7 @@ This preserves the game's original vibration behavior rather than replacing it w
 
 ## Compatibility and Known Conflicts
 
-* Tested on macOS with Hollow Knight 1.5.75, running the x86_64 game under Rosetta on Apple Silicon.
+* Tested on macOS with Hollow Knight 1.5.78.11833, running the x86_64 game under Rosetta on Apple Silicon.
 * **ControllerFixes conflict:** Do not enable ControllerFixes alongside Hollow Knight Native Rumble. When both mods are enabled, Native Rumble stops working.
 * Compatibility with Hollow Knight 1.5.12459 and newer versions has not been verified.
 * This mod restores controller rumble; it does not fix controller detection or button input.
